@@ -25,3 +25,9 @@
 - npm run prettier --write . => Reformats all files to match Prettier's style rules (modifies files)
 
 - npm run prettier --check . => Checks if files are formatted correctly (doesn't change anything, just reports)
+
+
+# database packages 
+- npm i @neondatabase/serverless drizzle-orm
+- npm i drizzle-kit -D
+
